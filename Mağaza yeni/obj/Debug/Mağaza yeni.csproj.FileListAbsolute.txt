@@ -1,0 +1,13 @@
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\bin\Debug\Mağaza yeni.exe.config
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\bin\Debug\Mağaza yeni.exe
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\bin\Debug\Mağaza yeni.pdb
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni.csprojAssemblyReference.cache
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\MainWindow.g.cs
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\App.g.cs
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni_MarkupCompile.cache
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\MainWindow.baml
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni.g.resources
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza_yeni.Properties.Resources.resources
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni.csproj.GenerateResource.cache
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni.exe
+C:\Users\Hasan BALCI\source\repos\Mağaza yeni\Mağaza yeni\obj\Debug\Mağaza yeni.pdb
